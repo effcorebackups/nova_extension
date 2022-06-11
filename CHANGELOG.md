@@ -1,11 +1,3 @@
-## Version 1.0.11
+## Version 1.0.12
 
 Color scheme improvements.
-
-## Version 1.0.10
-
-Color scheme improvements.
-
-## Version 1.0.9
-
-Added light theme.
